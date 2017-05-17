@@ -1,0 +1,92 @@
+/*l-title start*/
+.l-header {
+    height: 30px;
+    font-size: 14px;
+    color: #333333;
+}
+
+.l-title {
+    width: 1168px;
+    margin: 0 auto;
+    line-height:30px;
+}
+
+.l-header .l-title p {
+    float: left;
+}
+
+.l-header .l-tit-r {
+    float: right;
+}
+.l-tit-r a {
+   /*font-weight: 700;*/
+}
+a.l-logout {
+    padding-left: 10px;
+    border-left: 1px solid #333333;
+}
+
+
+/*l-title end*/
+
+/*l-banner start*/
+
+.l-banner {
+    height: 170px;
+    background-color: #cccccc;
+    width: 1168px;
+}
+
+/*l-banner end*/
+
+/*content start*/
+/*nav start*/
+.l-nav {
+    height: 50px;
+    background-color: red;
+}
+/*nav end*/
+/*content end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
